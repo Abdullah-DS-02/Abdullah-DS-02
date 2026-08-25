@@ -70,6 +70,14 @@
       <p><em>Flutter · Task Management</em></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h4>🎓 Edutrack</h4>
+      <p>A full-stack project built with FastAPI and SQLAlchemy, featuring JWT authentication and a modern frontend. Includes a clean API structure, well-defined database models, a complete authentication system, and production-ready backend setup.</p>
+      <p><em>FastAPI · SQLAlchemy · JWT</em></p>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 <!--
@@ -82,8 +90,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdullah-DS-02&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-DS-02&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Abdullah-DS-02&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdullah-DS-02&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
