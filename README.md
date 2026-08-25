@@ -90,7 +90,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Abdullah-DS-02&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdullah-DS-02&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
